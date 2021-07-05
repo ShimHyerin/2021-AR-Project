@@ -8,6 +8,8 @@
 - site: https://sites.google.com/view/2019-ardesign/class-of-2021/심혜린
 - youtube: https://youtu.be/tu5dvUiEQQ8
 
+*app-develop/ui-ux-app-design/3d-modeling/animation by ShimHyerin*
+
 ![site_1](https://user-images.githubusercontent.com/54926467/124427978-182fe100-dda7-11eb-9c9e-8e1bf3cb7c02.png)
 ![site_2](https://user-images.githubusercontent.com/54926467/124428005-1d8d2b80-dda7-11eb-84bb-b025e67500c5.png)
 ![site_3](https://user-images.githubusercontent.com/54926467/124428015-2120b280-dda7-11eb-9de2-7fb60cd17ad4.png)
